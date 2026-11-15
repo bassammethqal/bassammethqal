@@ -61,8 +61,7 @@ Another hands-on project for practicing responsive layout techniques.
 ---
 
 ## GitHub
-
-[![GitHub profile](https://img.shields.io/badge/Visit-my%20GitHub-181717?style=for-the-badge&logo=github)](https://github.com/bassammethqal)
+[↗ Visit My GitHub Profile](https://github.com/bassammethqal)
 
 <div align="center">
 

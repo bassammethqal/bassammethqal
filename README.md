@@ -22,23 +22,25 @@ Building practical digital solutions with curiosity, consistency, and code.
 - 🤖 Curious about artificial intelligence and practical technology.
 - 🚀 Focused on learning by building and improving through practice.
 
-🛠️ Technologies & Tools
+## 🛠️ Technologies & Tools
 
-Frontend Development
+**Frontend**
+  
+`HTML5` · `CSS3` · `JavaScript` · `React` · `Vite`
 
-"HTML5" "CSS3" "JavaScript" "React" "Vite"
+**Backend**
 
-Backend Development
+`Node.js` · `Express.js` · `Supabase`
 
-"Node.js" "Express.js" "Supabase"
+**Programming Languages**
 
-Programming Languages
+`C++` · `C#` · `TypeScript`
 
-"C++" "C#" "TypeScript"
+**Tools & Databases**
 
-Tools & Database
+`Git` · `GitHub` · `SQLite` · `PostgreSQL`
 
-"Git" "GitHub" "SQLite" "PostgreSQL"
+---
 
 ## Featured Projects
 

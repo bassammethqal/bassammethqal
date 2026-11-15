@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/profile.png" alt="Bassam Methqal" width="190" style="border-radius: 50%;" />
+<img src="profile.png" alt="Bassam Methqal" width="190" style="border-radius: 50%;" />
 
 # Bassam Methqal
 
